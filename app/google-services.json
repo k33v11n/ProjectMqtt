@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1024151337587",
+    "firebase_url": "https://habitos-f1eab-default-rtdb.firebaseio.com",
+    "project_id": "habitos-f1eab",
+    "storage_bucket": "habitos-f1eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024151337587:android:0dddebebc7348dc6dd8806",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvN_CZ9Ok-mhL5UUPClcfjLzG6SDOJK4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024151337587:android:dd74e7a02381651bdd8806",
+        "android_client_info": {
+          "package_name": "twin.developers.projectmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvN_CZ9Ok-mhL5UUPClcfjLzG6SDOJK4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
